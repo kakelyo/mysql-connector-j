@@ -1,4 +1,4 @@
-# MySQL Connector/J
+# MySQL Connector/J build for [radondb](https://github.com/radondb/radon)
 
 [![GitHub top language](https://img.shields.io/github/languages/top/mysql/mysql-connector-j.svg?color=5382a1)](https://github.com/mysql/mysql-connector-j/tree/release/8.0/src) [![License: GPLv2 with FOSS exception](https://img.shields.io/badge/license-GPLv2_with_FOSS_exception-c30014.svg)](LICENSE) [![Maven Central](https://img.shields.io/maven-central/v/mysql/mysql-connector-java.svg)](https://search.maven.org/artifact/mysql/mysql-connector-java)
 
